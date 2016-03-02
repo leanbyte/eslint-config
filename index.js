@@ -11,7 +11,7 @@ module.exports = {
 		'prefer-const': 1,
 		'no-const-assign': 2,
 		'prefer-spread': 1,
-		'prefer-template': 1,
+		'prefer-template': 0,
 		'no-arrow-condition': 2,
 		'arrow-spacing': [2, {'before': true, 'after': true}],
 		'prefer-arrow-callback': 1,
