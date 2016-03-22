@@ -15,7 +15,7 @@ module.exports = {
 		'no-arrow-condition': 2,
 		'arrow-spacing': [2, {'before': true, 'after': true}],
 		'prefer-arrow-callback': 1,
-		'arrow-body-style': [1, 'as-needed'],
+		'arrow-body-style': [0, 'as-needed'],
 		// Possible Errors
 		'comma-dangle': 0,
 		'no-cond-assign': [2, 'always'],
